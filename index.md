@@ -4,18 +4,18 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Favorite Cookies
-## 1. Fudge Stripes
+## Favorite Cookies
+### 1. Fudge Stripes
 
 The obvious choice for a delicious snack.
 To _die_ for...
 
-## 2. Thin Mints
+### 2. Thin Mints
 
 Yummy seasonal treats
 Here's some more random filler **text**
 
-## 3. Homemade Chocolate Chip
+### 3. Homemade Chocolate Chip
 
 `printf("Hello, yum!\n");`
 
