@@ -4,17 +4,7 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
+### Favorite Cookies
 ## 1. Fudge Stripes
 
 The obvious choice for a delicious snack.
@@ -28,6 +18,20 @@ Here's some more random filler **text**
 ## 3. Homemade Chocolate Chip
 
 `printf("Hello, yum!\n");`
+
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+
 
 **Bold** and _Italic_ and `Code` text
 
