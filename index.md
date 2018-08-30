@@ -15,11 +15,19 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+## 1. Fudge Stripes
 
-1. Numbered
-2. List
+The obvious choice for a delicious snack.
+To _die_ for...
+
+## 2. Thin Mints
+
+Yummy seasonal treats
+Here's some more random filler **text**
+
+## 3. Homemade Chocolate Chip
+
+`printf("Hello, yum!\n");`
 
 **Bold** and _Italic_ and `Code` text
 
